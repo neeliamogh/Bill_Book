@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+
+pg_data/
+pgsql/
+
+.env
+.env.local
+
+*.log
